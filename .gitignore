@@ -1,0 +1,5 @@
+# environment configuration
+.env
+
+# zip file
+*.zip
